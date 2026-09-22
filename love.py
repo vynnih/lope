@@ -46,7 +46,7 @@ a.goto(-2,75)
 a.pendown()
 a.color("red")
 style = ('courier',10,'italic')
-a.write('SELMA',font=style,align='left')
+a.write('CAPIAA',font=style,align='left')
 a.hideturtle()
 
 a = turtle.Turtle()
@@ -64,7 +64,7 @@ a.goto(-150,-130)
 a.pendown()
 a.color("red")
 style = ('courier',30,'italic')
-a.write('TAPI BOONG..😁',font=style,align='left')
+a.write('I LOVE U 🌹',font=style,align='left')
 a.hideturtle()
 
 
